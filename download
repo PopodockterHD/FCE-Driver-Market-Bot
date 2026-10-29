@@ -1,0 +1,9 @@
+.env
+.env.*
+!.env.example
+__pycache__/
+*.pyc
+*.tmp
+driver_market.json
+driver_market.backup.json
+.venv/
